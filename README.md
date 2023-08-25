@@ -1,7 +1,7 @@
 # lab-git-and-github
 Steps:
 1. Fork the repository to github.
-2. Chnage the work directory.
+2. Change the work directory.
 3. clone github repository to your machine
 4. Make new branch and switch into it.
 5. Do the changes as required
